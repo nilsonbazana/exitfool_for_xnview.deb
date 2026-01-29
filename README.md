@@ -22,6 +22,7 @@ It consists of:
 - Python 3
 - Tkinter (usually included with Python on Linux)
 - [ExifTool](https://exiftool.org/) installed and available at `/usr/bin/exiftool`
+- [XnviewMP](https://www.xnview.com/en/xnview-mp/) installed.
 
 ---
 
@@ -31,3 +32,5 @@ It consists of:
    ```bash
    git clone https://github.com/yourusername/metafixer2.git
    cd metafixer2
+2. Customize the Python app's menu to your own preferences for lenses, camera and/or crop factors.
+3. Customize the bash scrip wrapper to OS's your own paths and preferred folder.

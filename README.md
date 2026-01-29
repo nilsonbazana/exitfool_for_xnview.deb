@@ -33,4 +33,4 @@ It consists of:
    git clone https://github.com/yourusername/metafixer2.git
    cd metafixer2
 2. Customize the Python app's menu to your own preferences for lenses, camera and/or crop factors.
-3. Customize the bash scrip wrapper to OS's your own paths and preferred folder.
+3. Customize the bash scrip wrapper to your OS's own paths and preferred folders.

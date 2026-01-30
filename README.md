@@ -11,7 +11,7 @@ It consists of:
 ## Features
 
 - Apply lens presets (e.g. Yashica Tomioka 60mm, Risespray 25mm CCTV, EF28mm f/2.8).
-- Apply camera presets (Canon APS-C crop, Full Frame sync, Canon 1D crop, Canon EOS 50e).
+- Apply camera presets (Canon APS-C crop, Full Frame sync, Canon 1D crop, Canon EOS 50e, etc.).
 - Single summary message per file (success or error).
 - Works around XnView MP’s argument‑passing quirks (especially in Flatpak builds).
 

@@ -1,6 +1,6 @@
 # MetaFixer2
 
-MetaFixer2 is a small utility for fixing and customizing EXIF metadata in image files.  
+MetaFixer2 is a small utility for fixing and customizing EXIF metadata in image files via the 'Open with...' option in XnView image viewer.
 It consists of:
 
 - **metafixer2.py** — a Python script with a simple Tkinter GUI for selecting lens and camera presets, then applying them via ExifTool.
